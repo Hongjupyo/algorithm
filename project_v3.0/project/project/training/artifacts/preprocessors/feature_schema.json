@@ -1,0 +1,26 @@
+{
+  "numeric": [
+    "age",
+    "height_cm",
+    "weight_kg",
+    "temperature_c",
+    "last_seen_latitude",
+    "last_seen_longitude",
+    "missing_year",
+    "missing_month",
+    "missing_day",
+    "missing_hour",
+    "missing_weekday"
+  ],
+  "categorical": [
+    "sex",
+    "subject_type",
+    "medical_condition",
+    "place_type",
+    "weather"
+  ],
+  "targets": [
+    "discovery_latitude",
+    "discovery_longitude"
+  ]
+}
